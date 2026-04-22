@@ -1,13 +1,12 @@
 
-
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ChanYoung0609&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/ChanYoung0609"
-    weigh="300"
+    src="https://render.gitanimals.org/lines/ChanYoung0609?pet-id=826792263622311045"
+    width="600"
     height="120"
   />
 </a>
+  
   <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&text=ChanYoung's%20Git%20Hub&animation=scaleIn&fontColor=000000&fontSize=50" />
     </div>
